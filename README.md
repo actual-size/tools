@@ -1,9 +1,9 @@
-<h1>Shell tools</h1>
+# Shell tools
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [Shell tools](#shell-tools)
+    - [Map](#map)
 
 <!-- markdown-toc end -->
 
