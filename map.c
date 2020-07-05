@@ -4,7 +4,6 @@
 #include <string.h>
 
 #define BUFSIZE 128
-#define CMDSIZE 128
 #define FUNCTION 1
 #define FIRST_ARG 2
 
