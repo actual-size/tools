@@ -45,7 +45,6 @@ int exec_function(char *func_name, char *arg) {
   }
 
   while (fgets(buf, BUFSIZE, fp) != NULL) {
-    // Do whatever you want here...
     printf("%s", buf);
   }
 
